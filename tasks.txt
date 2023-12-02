@@ -1,0 +1,2 @@
+hello,hello people,True
+bye,bye people,False
